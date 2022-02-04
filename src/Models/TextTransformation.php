@@ -31,7 +31,7 @@ class TextTransformation extends Node
                 $queryFields
             );
         }
-        //usar str_replace no name
+
         return $queryFields;
     }
 }
